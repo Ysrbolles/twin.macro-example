@@ -1,5 +1,5 @@
 import "twin.macro";
-import { TestStyles } from "./Home.styles";
+import { TestStyles } from "../components/Home.styles";
 
 export default function Home() {
   return (
